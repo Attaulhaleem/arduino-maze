@@ -1,4 +1,4 @@
-# Arduino-Maze
+# arduino-maze
 Mapping and solving of closed mazes using the Arduino platform.
 
 ## Details
